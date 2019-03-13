@@ -58,7 +58,7 @@ gem 'recipient_interceptor', '~> 0.2.0'
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-leaflet'
-  gem 'rails-assets-markdown-it', '~> 8.2.1'
+  gem 'rails-assets-markdown-it', '~> 8.4.2'
 end
 
 group :development, :test do
